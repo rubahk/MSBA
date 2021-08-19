@@ -1,4 +1,4 @@
-# Sales Analysis for a supermarket in Myanmar
+# Sales analysis for a supermarket in Myanmar
 
 This streamlit application was done as an individual project for an MSBA Data-Driven Digital Marketing course at the American University of Beirut (AUB).
 
